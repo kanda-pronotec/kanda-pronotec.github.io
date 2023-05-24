@@ -1,3 +1,10 @@
-.title {
-    color: #02ccba;
-  }
+.header-logo {
+
+}
+.header-list {
+
+}
+li {
+  list-style: none;
+  float: left;
+}
