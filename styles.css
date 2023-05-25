@@ -15,3 +15,11 @@ body {
     color: darkblue;
   }
   
+  dt {
+    font-weight: bold;
+  }
+  
+  dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
