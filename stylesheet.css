@@ -19,6 +19,9 @@ header {
 .main {
   padding: 100px 80px;  
 }
+.title {
+  color: red;
+}
 .contact-form {
   padding-top: 100px;
 }
